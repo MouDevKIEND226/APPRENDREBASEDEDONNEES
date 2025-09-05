@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Moussa",
+      "email": "moussa@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Alain",
+      "email": "alain@example.com"
+    },
+    {
+      "id": "733e",
+      "junfrey": "Add your name in the body"
+    },
+    {
+      "id": "1",
+      "name": "Françis",
+      "email": "Françis@example.com"
+    },
+    {
+      "id": "e2d4"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first post",
+      "author": "Moussa"
+    },
+    {
+      "id": "2",
+      "title": "My second post",
+      "author": "Alain"
+    }
+  ]
+}
